@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Usuario_PC
+ * @Estefania Cale
  */
 public class ArbolBinario {
 
