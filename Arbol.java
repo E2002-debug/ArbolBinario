@@ -6,7 +6,7 @@ package arbolbinario;
 
 /**
  *
- * @author Usuario_PC
+ * @Estefania Cale
  */
 public class Arbol {
 
